@@ -9,13 +9,13 @@ Structured manual testing project for the **registration module** of Buggy Cars 
 | Metric | Value |
 |--------|-------|
 | Total Test Cases | 10 |
-| Passed | 4 ✅ |
-| Failed | 6 ❌ |
+| Passed | 4 |
+| Failed | 6 |
 | Pass Rate | 40% |
 
 ---
 
-## 🐛 Key Issues Identified
+## Key Issues Identified
 
 | Issue | Affected Test Cases | Impact |
 |-------|--------------------|--------|
